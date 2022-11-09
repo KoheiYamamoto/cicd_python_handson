@@ -1,3 +1,4 @@
+# https://learn.microsoft.com/ja-jp/azure/app-service/quickstart-python?tabs=flask%2Cmac-linux%2Cazure-portal%2Cvscode-deploy%2Cdeploy-instructions-azportal%2Cterminal-bash%2Cdeploy-instructions-zip-azcli
 from datetime import datetime
 from flask import Flask, render_template, request, redirect, url_for, send_from_directory
 app = Flask(__name__)
